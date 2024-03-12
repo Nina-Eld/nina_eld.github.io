@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunknina_eld=self.webpackChunknina_eld||[]).push([[822],{782:function(e,n,t){t.r(n),t.d(n,{default:function(){return u}});const l=[{id:"1",title:"Enchanted Amulet",price:"$20"}];var i=t(7294);function u(){return i.createElement("div",null,l.map(((e,n)=>i.createElement("div",null," ",e.title," ",e.price))))}}}]);
+//# sourceMappingURL=component---src-pages-gallery-js-20d8d861f5e73d7de5fa.js.map

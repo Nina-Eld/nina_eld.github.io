@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunknina_eld=self.webpackChunknina_eld||[]).push([[866],{4544:function(n,e,u){u.r(e),u.d(e,{default:function(){return t}});var r=u(7294);function t(){return r.createElement("h1",null," Thank you for your purchase!")}}}]);
+//# sourceMappingURL=component---src-pages-success-js-309cc72c1b313b38a55d.js.map
